@@ -1,0 +1,20 @@
+PODS:
+  - FLAnimatedImage (1.0.12)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - FLAnimatedImage
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - FLAnimatedImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: ee5d89b7e0962e60abd96dcbf3fd5fcd9f7b9aec
+
+COCOAPODS: 1.8.4
